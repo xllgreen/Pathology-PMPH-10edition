@@ -11,7 +11,7 @@
 > 基于人民卫生出版社《病理学》第10版的临床技能手册 — 145 项病理学核心技能
 <br>
 <br>
-<img src="/assets/Pathology.png" width="260px">
+<img src="/assets/Pathology-PMPH-10edition.jpg" width="260px">
 <br>
 
 何必苦苦读一本书<br>
